@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019668846298",
+    "project_id": "karanapp-3e82a",
+    "storage_bucket": "karanapp-3e82a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019668846298:android:82ca0c12e03e5cc59f37e3",
+        "android_client_info": {
+          "package_name": "com.example.learningapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ8GMjH4nNCdd9VT00gNlWld8-8_P5w7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
